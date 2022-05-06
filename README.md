@@ -28,6 +28,7 @@
   <img align="center" title="Typescript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" title="ReactNative" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" title="IonicJS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg">
+  <img align="center" title="NodeJS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
   
 <h2>Script languages</h2>
@@ -50,6 +51,11 @@
   <img align="center" title="Firebase Hosting" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" title="Amazon EC2" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" title="Heroku" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
+<div>
+  
+<h2>Web services</h2>
+<div style="display: inline_block"><br>
+  <img align="center" title="Postman" height="70" width="70" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
 <div>
   
 <h2></h2>
