@@ -12,50 +12,43 @@
   <img align="center" title="PHP" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" title="AspNET" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" title="Bootstrap" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" title="ReactJS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<!--   <img align="center" title="ReactJS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
 </div>
   
 <h2>Desktop development</h2>
 <div style="display: inline_block"><br>
-  <img align="center" title="C#" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" title=".NET" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" title="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
   
-<h2>Mobile development</h2>
+<!-- <h2>Mobile development</h2>
 <div style="display: inline_block"><br>
   <img align="center" title="Javascript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" title="Typescript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" title="ReactNative" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" title="IonicJS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg">
   <img align="center" title="NodeJS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-</div>
+</div> -->
   
 <h2>Script languages</h2>
 <div style="display: inline_block"><br>
   <img align="center" title="Groovy" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg">
   <img align="center" title="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" title="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<!--   <img align="center" title="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> -->
 </div> 
   
 <h2>Database and storage</h2>
 <div style="display: inline_block"><br>
   <img align="center" title="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" title="SQLServer" height="80" width="80" src="https://github.com/pedrocorrea2002/pedrocorrea2002/blob/main/Icons/sqlserver.png" >
-  <img align="center" title="Amazon RDS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+<!--   <img align="center" title="Amazon RDS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> -->
   <img align="center" title="Firebase Relational Database and Firebase Storage" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
 <div>
   
 <h2>Hosting services</h2>
 <div style="display: inline_block"><br>
   <img align="center" title="Firebase Hosting" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" title="Amazon EC2" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+<!--   <img align="center" title="Amazon EC2" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> -->
   <img align="center" title="Heroku" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
-<div>
-  
-<h2>Web services</h2>
-<div style="display: inline_block"><br>
-  <img align="center" title="Postman" height="70" width="70" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
 <div>
   
 <h2></h2>
