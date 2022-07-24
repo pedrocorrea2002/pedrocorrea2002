@@ -21,13 +21,13 @@
   <img align="center" title="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
   
-<!-- <h2>Mobile development</h2>
+<h2>Mobile development</h2>
 <div style="display: inline_block"><br>
-  <img align="center" title="Javascript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <!--<img align="center" title="Javascript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">-->
   <img align="center" title="Typescript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" title="ReactNative" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" title="NodeJS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-</div> -->
+</div>
   
 <h2>Script languages</h2>
 <div style="display: inline_block"><br>
