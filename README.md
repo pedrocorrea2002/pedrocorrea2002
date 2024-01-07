@@ -63,7 +63,7 @@
 
 <h2>Others</h2>
 <div style="display: inline_block"><br>
-  <img align="center" title="Jaspersoft Studio" height="70" width="70" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tibco_logo_icon_170502.png">
+  <img align="center" title="TIBCO Jaspersoft Studio" height="70" width="70" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tibco_logo_icon_170502.png">
 <div>
   
 <h2></h2>
