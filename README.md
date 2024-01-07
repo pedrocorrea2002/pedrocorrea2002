@@ -49,6 +49,7 @@
   <img align="center" title="SQLServer" height="80" width="80" src="https://github.com/pedrocorrea2002/pedrocorrea2002/blob/main/Icons/sqlserver.png" >
   <img align="center" title="Amazon RDS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" title="Firebase Relational Database and Firebase Storage" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+  <img align="center" title="GraphQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">
 <div>
   
 <h2>Hosting services</h2>
