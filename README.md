@@ -28,7 +28,7 @@
   <img align="center" title="Typescript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" title="ReactNative" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" title="NodeJS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" title="IonicJS" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" title="Flutter" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" title="IonicJS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg">
 </div>
   
@@ -47,8 +47,10 @@
 <div style="display: inline_block"><br>
   <img align="center" title="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" title="SQLServer" height="80" width="80" src="https://github.com/pedrocorrea2002/pedrocorrea2002/blob/main/Icons/sqlserver.png" >
+  <img align="center" title="DBeaver" height="80" width="80" src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" >
+  
   <img align="center" title="Amazon RDS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" title="Firebase Relational Database and Firebase Storage" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+  <img align="center" title="Firebase Realtime Database, Firebase Firestore, and Firebase Storage" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" title="GraphQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">
 <div>
   
@@ -57,6 +59,11 @@
   <img align="center" title="Firebase Hosting" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" title="Amazon EC2" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" title="Heroku" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
+<div>
+
+<h2>Others</h2>
+<div style="display: inline_block"><br>
+  <img align="center" title="Jaspersoft Studio" height="70" width="70" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tibco_logo_icon_170502.png">
 <div>
   
 <h2></h2>
